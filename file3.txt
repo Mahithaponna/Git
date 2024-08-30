@@ -1,4 +1,9 @@
 github
+<<<<<<< HEAD
 git
 hub
 ghf
+=======
+git 
+hub
+>>>>>>> branch1
